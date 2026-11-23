@@ -1,0 +1,9 @@
+﻿# Authentification et cœur Azure
+azure-identity>=1.19.0,<2.0.0
+azure-core>=1.32.0,<2.0.0
+
+# Gestion des ressources Azure (ARM)
+azure-mgmt-resource>=23.2.0,<24.0.0
+
+# Gestion des variables d'environnement
+python-dotenv>=1.0.1,<2.0.0
